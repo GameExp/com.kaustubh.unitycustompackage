@@ -4,12 +4,5 @@
 	"displayName": "Unity Custom Package",
 	"description": "A test unity custom package",
 	"unity": "2020.3",
-	"dependencies": {},
-	"samples": [
-		{
-			"displayName": "TestScene",
-			"description": "Scene",
-			"path": "Samples/Sample Folder 1"
-		}
-	]
+	"dependencies": {}
 }
