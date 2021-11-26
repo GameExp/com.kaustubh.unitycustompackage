@@ -7,14 +7,9 @@
 	"dependencies": {},
 	"samples": [
 		{
-			"displayName": "TestPrefab",
-			"description": "Prefab",
-			"path": "Samples~/Sample Folder 1"
-		},
-		{
 			"displayName": "TestScene",
 			"description": "Scene",
-			"path": "Samples~/Sample Folder 1"
+			"path": "Samples/Sample Folder 1"
 		}
 	]
 }
