@@ -7,16 +7,6 @@
 	"dependencies": {},
 	"samples": [
 		{
-			"displayName": "MyTest",
-			"description": "Script",
-			"path": "Samples/Sample Folder 1"
-		},
-		{
-			"displayName": "TestPrefab",
-			"description": "Prefab",
-			"path": "Samples/Sample Folder 1"
-		},
-		{
 			"displayName": "TestScene",
 			"description": "Scene",
 			"path": "Samples/Sample Folder 1"
